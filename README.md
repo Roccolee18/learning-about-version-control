@@ -4,3 +4,4 @@
 
 Author: Rocco Lee
 
+Solving merge conflicts is easy!
